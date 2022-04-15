@@ -1,0 +1,9 @@
+.categories-grid {
+  margin: 64px 0 120px 0;
+  padding: 0;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-auto-rows: minmax(100px, auto);
+  row-gap: 40px;
+  column-gap: 56px;
+}

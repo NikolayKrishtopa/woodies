@@ -1,0 +1,10 @@
+.step-card__calculator-stripe-1 {
+  margin: 0;
+  padding: 0;
+  width: 31px;
+  height: 4px;
+  background-color: #000;
+  right: 15px;
+  top: 23px;
+  position: absolute;
+}

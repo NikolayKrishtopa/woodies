@@ -1,0 +1,11 @@
+.footer {
+  margin: 0;
+  position: relative;
+  text-align: center;
+  box-sizing: border-box;
+  padding: 208px 100px 24px 100px;
+  width: 1150px;
+  height: 455px;
+  background-image: url(../../images/footer__picture_2.png);
+  background-size: cover;
+}

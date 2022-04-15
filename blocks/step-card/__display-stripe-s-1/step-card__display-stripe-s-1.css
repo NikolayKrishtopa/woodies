@@ -1,0 +1,11 @@
+.step-card__display-stripe-s-1 {
+  margin: 0;
+  padding: 0;
+  position: absolute;
+  width: 31px;
+  height: 4px;
+  position: absolute;
+  background-color: #333333;
+  top: 45px;
+  right: 16px;
+}

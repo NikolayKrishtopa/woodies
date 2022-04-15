@@ -1,0 +1,11 @@
+.section-title {
+  font-family: 'Nunito';
+  line-height: 98px;
+  font-size: 72px;
+  font-weight: 800;
+  color: #3E3F43;
+  opacity: 10%;
+  text-transform: uppercase;
+  margin: 0;
+  padding: 0;
+}

@@ -1,0 +1,8 @@
+.flex-row_place_footer {
+  z-index: 2;
+  box-sizing: border-box;
+  margin-bottom: 45px;
+  padding-top: 24px;
+  border-top: solid 1px #C4C4C4;
+  width: 708px; box-sizing: border-box;
+}

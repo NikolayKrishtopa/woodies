@@ -1,0 +1,11 @@
+.header__main-line {
+  margin: 0;
+  padding: 0;
+  font-family: 'Nunito';
+  line-height: 98px;
+  font-size: 72px;
+  font-weight: bold;
+  max-width: 504px;
+  margin: 16px 0;
+  color: #3E3F43;
+}

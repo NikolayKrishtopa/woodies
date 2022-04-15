@@ -1,0 +1,10 @@
+.footer__text {
+  margin: 0;
+  padding: 0;
+  color: #8D8D8D;
+  margin-top: 16px;
+  font-family: 'Nunito';
+  line-height: 19px;
+  font-size: 14px;
+  font-weight: normal;
+}

@@ -1,0 +1,10 @@
+.step-card__display-rectangle {
+  margin: 0;
+  padding: 0;
+  width: 46px;
+  height: 31px;
+  position: absolute;
+  background-color: #F9BDBD;
+  top: 22px;
+  left: 8px;
+}

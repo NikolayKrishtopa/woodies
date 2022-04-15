@@ -1,0 +1,12 @@
+.step-card__calculator-keyboard {
+  margin: 0;
+  padding: 0;
+  height: 44px;
+  width: 44px;
+  display: flex;
+  flex-wrap: wrap;
+  position: absolute;
+  bottom: 7px;
+  right: 7px;
+  justify-content: space-between;
+}

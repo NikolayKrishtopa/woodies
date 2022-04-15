@@ -1,0 +1,13 @@
+.step-card__number {
+  margin: 0;
+  padding: 0;
+  font-family: 'Nunito';
+  line-height: 130px;
+  font-size: 96px;
+  font-weight: 600;
+  color: #F9BDBD;
+  opacity: 25%;
+  position: absolute;
+  left: 20px;
+  bottom: 28px;
+}

@@ -1,0 +1,10 @@
+.step-card__worker-eye {
+  margin: 0;
+  padding: 0;
+  width: 4px;
+  height: 4px;
+  background-color: #333333;
+  position: absolute;
+  right: 41px;
+  top: 31px;
+}

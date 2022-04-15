@@ -1,0 +1,8 @@
+.step-card__ruler-round {
+  margin: 0;
+  padding: 0;
+  left: 7px;
+  top: 7px;
+  z-index: 2;
+  position: absolute;
+}

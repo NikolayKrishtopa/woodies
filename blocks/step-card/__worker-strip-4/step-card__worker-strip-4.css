@@ -1,0 +1,11 @@
+.step-card__worker-strip-4 {
+  margin: 0;
+  padding: 0;
+  width: 4px;
+  height: 12px;
+  background-color: #333333;
+  left: 8px;
+  bottom: 8px;
+  position: absolute;
+  z-index: 2;
+}

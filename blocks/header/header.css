@@ -1,0 +1,11 @@
+.header {
+  margin: 0;
+  padding: 0;
+  background-color: #fff;
+  width: 1150px;
+  height: 800px;
+  position: relative;
+  background-image: url(../../images/header-rectangle.png);
+  background-position: top right;
+  background-repeat: no-repeat;
+}
