@@ -6,4 +6,4 @@
 
 [Ссылка на макет в Figma](https://www.figma.com/file/Ysec9ziDoPyuZzEBuTUM2u/Maxim-Chechenev---01%2Fextra-task?node-id=0%3A1)
 
-[Ссылка на страницу](https://github.com/NikolayKrishtopa/woodies)
+[Ссылка на страницу](https://nikolaykrishtopa.github.io/woodies/)
